@@ -20,7 +20,6 @@ Pandas – data manipulation and analysis
 
 Matplotlib / Seaborn – data visualization
 
-(Add any others used in your notebook)
 
 **📊 Project Overview**
 
@@ -43,26 +42,12 @@ import numpy as np  # Numerical calculations on the data
 df.isnull().sum()   # Checking missing values
 
 
-(You can add more detailed steps if you want.)
-
 **🚀 How to Run**
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Navigate to the project folder:
-
-cd your-repo-name
 
 
 Install required packages:
 
 pip install -r requirements.txt
-
-
-(Tell me if you want a requirements.txt generated automatically.)
 
 Open the Jupyter Notebook:
 
